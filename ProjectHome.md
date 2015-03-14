@@ -1,0 +1,1 @@
+Varias pruebas para ver cómo trabajar de forma sincronizada con OmegaT entre varios equipos/personas.
