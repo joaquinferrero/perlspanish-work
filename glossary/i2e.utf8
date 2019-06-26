@@ -1223,6 +1223,7 @@ appendage	accesorio
 appendectomy	apendectomía
 appendicitis	apendicitis
 appendix	apéndice
+appends	añade
 append (to -)	adjuntar
 append (to -)	añadir
 appetite	apetito
@@ -3691,8 +3692,9 @@ carve (to -)	tallar
 carving	talla (obra de escultura)
 car window	ventanilla
 cascade	cascada
-caseation	caseificación
+case	caso
 case	caja
+caseation	caseificación
 casement	marco (de una ventana)
 caseous	caseoso
 caseous	como el queso
@@ -4455,6 +4457,7 @@ closet	armario
 closet	gabinete
 close (to -)	cerrar
 closing	cierre
+closure	clausura
 closure	fin
 clot	grumo
 clothes	ropa
@@ -4551,6 +4554,7 @@ coconut	coco
 cocoon	capullo
 cod	bacalao
 coddle (to -)	consentir
+code	código
 codec (abbr. for compression and decompression)	comprimir y descomprimir
 coded	codificado
 codeine	codeína
@@ -7054,6 +7058,7 @@ dodder (to -)	temblequear
 dodge (to -)	regatear
 dodo	vejestorio
 doe	coneja
+does	hace
 doer	hacedor
 doeskin	ante
 dogfight	pelea de perros
@@ -8777,6 +8782,7 @@ file server	servidor (de archivos)
 file (to -)	archivar
 file ( to -)	limar
 file transfer	transferencia de ficheros
+filename	nombre de archivo
 filial	filial
 filibuster	filibustero
 filigree	filigrana
@@ -11986,6 +11992,7 @@ inspire	inspirar
 inspiring	inspirador
 ins	pormenores
 instability	inestabilidad
+installs	instala
 installation	instalación
 installment	instalación
 installment	plazo
@@ -12589,6 +12596,8 @@ jurist	jurista
 juror	jurado (miembro del -)
 jury	jurado
 juryman	jurado (miembro del -)
+just	sólo
+just	justo
 justice	justicia
 justifiable	justificable
 justification	justificación
@@ -15492,7 +15501,7 @@ open-ended system	sistema abierto
 opener	abridor
 opening	abertura
 openly	abiertamente
-open (to -)	abrir
+open	abrir
 operand	operando
 opera	ópera
 operate (to -)	funcionar
@@ -15998,6 +16007,7 @@ parquet	platea
 parrot-fish	vieja colorada
 parrot	loro
 parry	parada
+parser	intérprete
 parser	programa analizador sintáctico
 parsimonious	parsimonioso
 parsimony	parsimonia
@@ -18577,6 +18587,7 @@ retrospect	recordar
 retry	reintento
 retry (to -)	reintentar
 return	retorno
+returns	regresa
 returns	ingresos
 return (to -)	devolver
 return	volver
@@ -21220,6 +21231,7 @@ straw	paja
 stray	perdido
 streak	raya
 streaky	rayado
+stream	flujo
 stream	arroyo
 streamer	gallardete
 streamlined	aerodinámico
@@ -22404,8 +22416,10 @@ till	hasta
 tilt	inclinación
 tilting screen	pantalla inclinable
 timber	madera
+time	vez
 time	duración
 time	hora
+time	tiempo
 timekeeper	cronómetro
 timeless	eterno
 timely	oportuno
@@ -22414,7 +22428,6 @@ timeout	interrupción
 time-out	plazo (expirado)
 timepiece	reloj
 timetable	horario
-time	tiempo
 time zone	huso horario
 time zone	zona horaria
 timidity	timidez
@@ -23628,6 +23641,7 @@ Uruguay	Uruguay
 USA (abbrev. for United States of America)	EE.UU. (abrev. de Estados Unidos)
 usable	utilizable
 usable width	ancho utilizable
+usage	uso
 USB (abbr. for universal serial bus)	USB (abrev. inglesa de bus de conexión en serie universal.....)
 USB (abbr. for universal serial bus)	USB (abrev. inglesa de bus de conexión en serie universal)
 used	usado
