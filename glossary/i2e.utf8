@@ -95,6 +95,7 @@ about	acerca
 about	acerca de
 about-face	media vuelta
 above	arriba
+above	anterior
 aboveboard	abiertamente
 above	sobre
 abrade (to -)	desgastar
@@ -3446,6 +3447,8 @@ camphor	alcanfor
 camping	acampada
 camp (to -)	acampar
 campus	campus
+can	puede
+can	pueden
 Canada	Canadá
 Canadian	canadiense
 canal	canal
@@ -6142,6 +6145,7 @@ debris	ruinas
 debt	deuda
 debtor	deudor
 debugger	depurador
+debugging	depuración
 debug (to -)	depurar (un fichero)
 debutante	debutante
 debut	debut
@@ -7883,6 +7887,7 @@ enslave (to -)	esclavizar
 ensnare (to -)	coger en una trampa
 ensue (to -)	suceder
 ensure (to -)	asegurar
+ensures	asegura
 entail	vinculación
 entangle (to -)	enredar
 enterprise	empresa
@@ -8255,6 +8260,7 @@ exile	exilio
 existence	existencia
 existent	existente
 existentialism	existencialismo
+exists	existe
 exist (to -)	existir
 exit	salida
 exit (to -)	salir
@@ -12628,6 +12634,7 @@ keen	entusiasmo
 keenness	agudeza
 keen	perspicaz
 keeper	guardián
+keep	mantener
 keep	guardar
 keeping	guarda
 keepsake	recuerdo
@@ -13463,6 +13470,7 @@ loss	pérdida
 lost	perdido
 lotion	crema
 lotion	loción
+lot	montón
 lot	lote
 lot	porción
 lots	muchos
@@ -13967,7 +13975,8 @@ meaningless	sin sentido
 mean	malo
 mean	media
 meanness	humildad
-means (plural)	medios (plural)
+means	significa
+means	medios
 meantime	entretanto
 meanwhile	entretanto
 meanwhile	mientras tanto
@@ -16008,6 +16017,7 @@ parrot-fish	vieja colorada
 parrot	loro
 parry	parada
 parser	intérprete
+parses	interpreta
 parser	programa analizador sintáctico
 parsimonious	parsimonioso
 parsimony	parsimonia
@@ -20454,6 +20464,7 @@ solo	solo
 solstice	solsticio
 solubility	solubilidad
 soluble	soluble
+solution	solución
 solvable	resoluble
 solvable	soluble
 solvency	solvencia
@@ -24243,6 +24254,7 @@ waver (to -)	vacilar
 wavy	ondulado
 wax	cera
 wayfarer	caminante
+way	forma
 way	manera
 wayward	voluntarioso
 weak	débil
