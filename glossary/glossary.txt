@@ -1,0 +1,2 @@
+partition	partición
+partitions	particiones
