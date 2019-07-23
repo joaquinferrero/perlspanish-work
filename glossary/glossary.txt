@@ -2,6 +2,7 @@ override	sobrepasar	Mejor usar otra cosa
 override	reescribir
 above	anterior
 appends	añade
+built	compilar
 can	puede
 can	pueden
 case	caso
@@ -11,14 +12,18 @@ debugging	depuración
 does	hace
 encounter	encontrarse
 ensures	asegura
+even	incluso
 exists	existe
 filename	nombre de archivo
+filesystem	sistema de archivos
+filesystems	sistemas de archivos
 installs	instala
 just	sólo
 just	justo
 keep	mantener
 lot	montón
 means	medios
+options	opciones
 parser	intérprete
 parses	interpreta
 returns	regresa
