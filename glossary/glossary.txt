@@ -2,6 +2,7 @@ override	sobrepasar	Mejor usar otra cosa
 override	reescribir
 above	anterior
 appends	añade
+backslash	barra diagonal inversa
 built	compilar
 can	puede
 can	pueden
@@ -21,6 +22,7 @@ installs	instala
 just	sólo
 just	justo
 keep	mantener
+letter	letra
 lot	montón
 means	medios
 options	opciones
