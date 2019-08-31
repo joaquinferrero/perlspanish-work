@@ -34,6 +34,7 @@ source	código
 source	código fuente
 source	fuente
 stream	flujo
+subject	sujeto
 time	vez
 time	tiempo
 usage	uso
