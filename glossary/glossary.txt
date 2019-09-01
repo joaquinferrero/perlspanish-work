@@ -2,6 +2,7 @@ override	sobrepasar	Mejor usar otra cosa
 override	reescribir
 above	anterior
 appends	añade
+automatically	automáticamente
 backslash	barra diagonal inversa
 built	compilar
 can	puede
@@ -18,6 +19,7 @@ exists	existe
 filename	nombre de archivo
 filesystem	sistema de archivos
 filesystems	sistemas de archivos
+functions	funciones
 installs	instala
 just	sólo
 just	justo
@@ -39,4 +41,3 @@ time	vez
 time	tiempo
 usage	uso
 way	forma
-
