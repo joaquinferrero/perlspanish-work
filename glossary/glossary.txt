@@ -40,4 +40,5 @@ subject	sujeto
 time	vez
 time	tiempo
 usage	uso
+versions	versiones
 way	forma
