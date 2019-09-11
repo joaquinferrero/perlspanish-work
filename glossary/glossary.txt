@@ -4,6 +4,7 @@ above	anterior
 appends	añade
 automatically	automáticamente
 backslash	barra diagonal inversa
+bugs	errores
 built	compilar
 can	puede
 can	pueden
@@ -37,6 +38,7 @@ source	código fuente
 source	fuente
 stream	flujo
 subject	sujeto
+terminal	terminal
 time	vez
 time	tiempo
 usage	uso
