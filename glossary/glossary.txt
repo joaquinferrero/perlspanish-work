@@ -41,6 +41,7 @@ subject	sujeto
 terminal	terminal
 time	vez
 time	tiempo
+unique	única
 usage	uso
 versions	versiones
 way	forma
