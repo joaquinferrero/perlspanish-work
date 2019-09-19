@@ -31,7 +31,9 @@ means	medios
 options	opciones
 parser	intérprete
 parses	interpreta
+ports	adaptaciones
 returns	regresa
+sections	secciones
 solution	solución
 source	código
 source	código fuente
