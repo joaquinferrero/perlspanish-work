@@ -47,3 +47,4 @@ unique	única
 usage	uso
 versions	versiones
 way	forma
+wrong	incorrecto
