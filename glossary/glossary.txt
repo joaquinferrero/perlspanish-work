@@ -32,8 +32,10 @@ options	opciones
 parser	intérprete
 parses	interpreta
 ports	adaptaciones
+return	devuelve
 returns	regresa
 sections	secciones
+single	única
 solution	solución
 source	código
 source	código fuente
