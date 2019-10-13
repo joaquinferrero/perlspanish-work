@@ -12,6 +12,7 @@ case	caso
 closure	clausura
 code	código
 debugging	depuración
+directory	directorio
 does	hace
 encounter	encontrarse
 ensures	asegura
@@ -33,6 +34,7 @@ options	opciones
 parser	intérprete
 parses	interpreta
 ports	adaptaciones
+provide	proporciona
 return	devuelve
 returns	regresa
 sections	secciones
