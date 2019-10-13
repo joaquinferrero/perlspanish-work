@@ -16,6 +16,7 @@ directory	directorio
 does	hace
 encounter	encontrarse
 ensures	asegura
+especially	especialmente
 even	incluso
 exists	existe
 filename	nombre de archivo
