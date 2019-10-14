@@ -34,6 +34,7 @@ means	medios
 options	opciones
 parser	intérprete
 parses	interpreta
+portability	portabilidad
 ports	adaptaciones
 provide	proporciona
 return	devuelve
