@@ -26,6 +26,7 @@ filesystems	sistemas de archivos
 functions	funciones
 installs	instala
 instead	en lugar de
+interface	interfaz
 just	sólo
 just	justo
 keep	mantener
