@@ -27,6 +27,7 @@ functions	funciones
 installs	instala
 instead	en lugar de
 interface	interfaz
+itself	propio
 just	sólo
 just	justo
 keep	mantener
