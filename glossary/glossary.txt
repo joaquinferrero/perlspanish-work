@@ -9,6 +9,7 @@ built	compilar
 can	puede
 can	pueden
 case	caso
+characters	caracteres
 closure	clausura
 code	código
 debugging	depuración
@@ -29,6 +30,7 @@ just	sólo
 just	justo
 keep	mantener
 letter	letra
+like	como
 lot	montón
 means	medios
 options	opciones
@@ -42,6 +44,7 @@ returns	regresa
 sections	secciones
 single	única
 solution	solución
+sometimes	algunas veces
 source	código
 source	código fuente
 source	fuente
