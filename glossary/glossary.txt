@@ -36,6 +36,7 @@ like	como
 lot	montón
 means	medios
 options	opciones
+pathname	nombre de ruta
 parser	intérprete
 parses	interpreta
 portability	portabilidad
