@@ -24,9 +24,12 @@ filename	nombre de archivo
 filesystem	sistema de archivos
 filesystems	sistemas de archivos
 functions	funciones
+header	cabecera
 installs	instala
 instead	en lugar de
 interface	interfaz
+internally	internamente
+issue	problema
 itself	propio
 just	sólo
 just	justo
@@ -53,6 +56,7 @@ source	código fuente
 source	fuente
 stream	flujo
 subject	sujeto
+subroutine	subrutina
 terminal	terminal
 time	vez
 time	tiempo
