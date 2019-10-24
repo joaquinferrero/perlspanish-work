@@ -6,6 +6,7 @@ automatically	automáticamente
 backslash	barra diagonal inversa
 bugs	errores
 built	compilar
+byte	byte
 can	puede
 can	pueden
 case	caso
@@ -20,6 +21,7 @@ ensures	asegura
 especially	especialmente
 even	incluso
 exists	existe
+explicit	explícito
 filename	nombre de archivo
 filesystem	sistema de archivos
 filesystems	sistemas de archivos
@@ -36,8 +38,11 @@ just	justo
 keep	mantener
 letter	letra
 like	como
+locale	configuración regional
 lot	montón
+lowercase	minúscula
 means	medios
+might	podría
 options	opciones
 pathname	nombre de ruta
 parser	intérprete
@@ -45,6 +50,7 @@ parses	interpreta
 portability	portabilidad
 ports	adaptaciones
 provide	proporciona
+really	realmente
 return	devuelve
 returns	regresa
 sections	secciones
@@ -61,6 +67,7 @@ terminal	terminal
 time	vez
 time	tiempo
 unique	única
+uppercase	mayúscula
 usage	uso
 versions	versiones
 way	forma
