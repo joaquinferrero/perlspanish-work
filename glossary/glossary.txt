@@ -16,6 +16,7 @@ code	código
 debugging	depuración
 directory	directorio
 does	hace
+efficient	eficiente
 encounter	encontrarse
 ensures	asegura
 especially	especialmente
@@ -61,6 +62,7 @@ source	código
 source	código fuente
 source	fuente
 stream	flujo
+string	cadena
 subject	sujeto
 subroutine	subrutina
 terminal	terminal
@@ -71,4 +73,5 @@ uppercase	mayúscula
 usage	uso
 versions	versiones
 way	forma
+whereas	mientras
 wrong	incorrecto
