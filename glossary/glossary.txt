@@ -71,6 +71,7 @@ time	tiempo
 unique	única
 uppercase	mayúscula
 usage	uso
+usually	normalmente
 versions	versiones
 way	forma
 whereas	mientras
