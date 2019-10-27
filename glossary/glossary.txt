@@ -1,9 +1,11 @@
 override	sobrepasar	Mejor usar otra cosa
 override	reescribir
+about	sobre
 above	anterior
 appends	añade
 automatically	automáticamente
 backslash	barra diagonal inversa
+because	debido
 bugs	errores
 built	compilar
 byte	byte
@@ -14,6 +16,7 @@ characters	caracteres
 closure	clausura
 code	código
 debugging	depuración
+developer	desarrollador
 directory	directorio
 does	hace
 efficient	eficiente
@@ -28,6 +31,7 @@ filesystem	sistema de archivos
 filesystems	sistemas de archivos
 functions	funciones
 header	cabecera
+however	aun así
 installs	instala
 instead	en lugar de
 interface	interfaz
@@ -44,6 +48,7 @@ lot	montón
 lowercase	minúscula
 means	medios
 might	podría
+of course	naturalmente
 options	opciones
 pathname	nombre de ruta
 parser	intérprete
@@ -73,6 +78,8 @@ uppercase	mayúscula
 usage	uso
 usually	normalmente
 versions	versiones
+volunteer	voluntario
 way	forma
 whereas	mientras
+work	funciona
 wrong	incorrecto
