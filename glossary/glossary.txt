@@ -48,6 +48,7 @@ lot	montón
 lowercase	minúscula
 means	medios
 might	podría
+most	mayor
 of course	naturalmente
 options	opciones
 pathname	nombre de ruta
