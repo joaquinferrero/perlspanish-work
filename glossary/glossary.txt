@@ -78,6 +78,7 @@ unique	única
 uppercase	mayúscula
 usage	uso
 usually	normalmente
+utilitie	utilidad
 versions	versiones
 volunteer	voluntario
 way	forma
