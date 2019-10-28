@@ -61,6 +61,7 @@ really	realmente
 return	devuelve
 returns	regresa
 sections	secciones
+several	muchos
 single	única
 solution	solución
 sometimes	algunas veces
