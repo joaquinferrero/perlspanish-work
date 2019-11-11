@@ -41,6 +41,7 @@ itself	propio
 just	sólo
 just	justo
 keep	mantener
+length	longitud
 letter	letra
 like	como
 locale	configuración regional
