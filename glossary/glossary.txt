@@ -74,6 +74,7 @@ stream	flujo
 string	cadena
 subject	sujeto
 subroutine	subrutina
+suffix	sufijo
 terminal	terminal
 time	vez
 time	tiempo
