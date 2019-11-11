@@ -58,6 +58,7 @@ parses	interpreta
 portability	portabilidad
 ports	adaptaciones
 provide	proporciona
+qualified	cualificado
 really	realmente
 return	devuelve
 returns	regresa
