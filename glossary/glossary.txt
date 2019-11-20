@@ -15,17 +15,22 @@ case	caso
 characters	caracteres
 closure	clausura
 code	código
+compiler	compilador
 debugging	depuración
 developer	desarrollador
+device	dispositivo
 directory	directorio
 does	hace
+due	debido
 efficient	eficiente
 encounter	encontrarse
+ends	termina
 ensures	asegura
 especially	especialmente
 even	incluso
 exists	existe
 explicit	explícito
+explicitly	explícitamente
 filename	nombre de archivo
 filesystem	sistema de archivos
 filesystems	sistemas de archivos
@@ -47,6 +52,7 @@ like	como
 locale	configuración regional
 lot	montón
 lowercase	minúscula
+math	matemáticas
 means	medios
 might	podría
 most	mayor
