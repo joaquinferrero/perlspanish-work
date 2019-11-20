@@ -89,6 +89,7 @@ uppercase	mayúscula
 usage	uso
 usually	normalmente
 utilitie	utilidad
+vary	variar
 versions	versiones
 volunteer	voluntario
 way	forma
