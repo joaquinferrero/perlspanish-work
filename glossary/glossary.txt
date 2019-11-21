@@ -31,6 +31,7 @@ even	incluso
 exists	existe
 explicit	explícito
 explicitly	explícitamente
+filehandle	identificador de archivo
 filename	nombre de archivo
 filesystem	sistema de archivos
 filesystems	sistemas de archivos
@@ -61,12 +62,14 @@ options	opciones
 pathname	nombre de ruta
 parser	intérprete
 parses	interpreta
+pointer	puntero
 portability	portabilidad
 ports	adaptaciones
 provide	proporciona
 qualified	cualificado
 really	realmente
 return	devuelve
+returned	devuelto
 returns	regresa
 sections	secciones
 several	muchos
