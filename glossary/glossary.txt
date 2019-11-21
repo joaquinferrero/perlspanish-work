@@ -6,6 +6,7 @@ appends	añade
 automatically	automáticamente
 backslash	barra diagonal inversa
 because	debido
+behavior	comportamiento
 bugs	errores
 built	compilar
 byte	byte
