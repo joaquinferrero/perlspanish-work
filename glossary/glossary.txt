@@ -36,6 +36,7 @@ filehandle	identificador de archivo
 filename	nombre de archivo
 filesystem	sistema de archivos
 filesystems	sistemas de archivos
+floating	flotante
 functions	funciones
 header	cabecera
 however	aun así
@@ -101,4 +102,5 @@ volunteer	voluntario
 way	forma
 whereas	mientras
 work	funciona
+workaround	alternativa
 wrong	incorrecto
