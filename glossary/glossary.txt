@@ -1,8 +1,7 @@
-override	sobrepasar	Mejor usar otra cosa
-override	reescribir
 about	sobre
 above	anterior
 appends	añade
+argument	argumento
 automatically	automáticamente
 backslash	barra diagonal inversa
 because	debido
@@ -14,6 +13,7 @@ can	puede
 can	pueden
 case	caso
 characters	caracteres
+child	hijo
 closure	clausura
 code	código
 compiler	compilador
@@ -60,6 +60,8 @@ might	podría
 most	mayor
 of course	naturalmente
 options	opciones
+override	sobrepasar	Mejor usar otra cosa
+override	reescribir
 pathname	nombre de ruta
 parser	intérprete
 parses	interpreta
