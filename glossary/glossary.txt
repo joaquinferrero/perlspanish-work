@@ -40,6 +40,7 @@ floating	flotante
 functions	funciones
 header	cabecera
 however	aun así
+inode	inodo
 installs	instala
 instead	en lugar de
 interface	interfaz
@@ -52,6 +53,7 @@ keep	mantener
 length	longitud
 letter	letra
 like	como
+link	enlace
 locale	configuración regional
 lot	montón
 lowercase	minúscula
