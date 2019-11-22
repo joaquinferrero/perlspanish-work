@@ -71,6 +71,7 @@ portability	portabilidad
 ports	adaptaciones
 provide	proporciona
 qualified	cualificado
+range	rango
 really	realmente
 return	devuelve
 returned	devuelto
