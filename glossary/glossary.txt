@@ -24,6 +24,7 @@ directory	directorio
 does	hace
 due	debido
 efficient	eficiente
+emulation	emulación
 encounter	encontrarse
 ends	termina
 ensures	asegura
@@ -66,6 +67,7 @@ options	opciones
 override	sobrepasar	Mejor usar otra cosa
 override	reescribir
 pathname	nombre de ruta
+parent	padre
 parser	intérprete
 parses	interpreta
 pointer	puntero
