@@ -96,6 +96,7 @@ suffix	sufijo
 terminal	terminal
 time	vez
 time	tiempo
+thread	hebra
 unique	única
 uppercase	mayúscula
 usage	uso
