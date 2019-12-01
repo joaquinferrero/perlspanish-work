@@ -9,6 +9,7 @@ behavior	comportamiento
 bugs	errores
 built	compilar
 byte	byte
+cache	caché
 can	puede
 can	pueden
 case	caso
@@ -79,6 +80,7 @@ provide	proporciona
 qualified	cualificado
 range	rango
 really	realmente
+recursive	recursivo
 return	devuelve
 returned	devuelto
 returns	regresa
