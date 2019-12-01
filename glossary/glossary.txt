@@ -66,6 +66,7 @@ most	mayor
 of course	naturalmente
 often	a menudo
 options	opciones
+otherwise	lo contrario
 override	sobrepasar	Mejor usar otra cosa
 override	reescribir
 pathname	nombre de ruta
@@ -102,6 +103,7 @@ time	vez
 time	tiempo
 thread	hebra
 unique	única
+unless	a menos
 uppercase	mayúscula
 usage	uso
 usually	normalmente
