@@ -24,6 +24,7 @@ device	dispositivo
 directory	directorio
 does	hace
 due	debido
+easier	más fácil
 efficient	eficiente
 emulation	emulación
 encounter	encontrarse
