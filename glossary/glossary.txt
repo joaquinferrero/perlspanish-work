@@ -47,6 +47,7 @@ functions	funciones
 header	cabecera
 however	aun así
 implementation	implementación
+implicitly	implícitamente
 inconsistency	inconsistencia
 inode	inodo
 installs	instala
