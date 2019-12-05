@@ -3,6 +3,7 @@ above	anterior
 appends	añade
 argument	argumento
 automatically	automáticamente
+avoid	evitar
 backslash	barra diagonal inversa
 because	debido
 behavior	comportamiento
@@ -18,6 +19,7 @@ child	hijo
 closure	clausura
 code	código
 compiler	compilador
+conditions	condiciones
 data	datos
 debugging	depuración
 developer	desarrollador
@@ -45,6 +47,7 @@ functions	funciones
 header	cabecera
 however	aun así
 implementation	implementación
+inconsistency	inconsistencia
 inode	inodo
 installs	instala
 instead	en lugar de
@@ -69,6 +72,7 @@ most	mayor
 of course	naturalmente
 often	a menudo
 options	opciones
+order	orden
 otherwise	lo contrario
 override	sobrepasar	Mejor usar otra cosa
 override	reescribir
@@ -102,6 +106,7 @@ string	cadena
 subject	sujeto
 subroutine	subrutina
 suffix	sufijo
+synchronization	sincronización
 terminal	terminal
 time	vez
 time	tiempo
