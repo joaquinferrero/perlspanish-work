@@ -18,6 +18,7 @@ child	hijo
 closure	clausura
 code	código
 compiler	compilador
+data	datos
 debugging	depuración
 developer	desarrollador
 device	dispositivo
@@ -81,6 +82,7 @@ processor	procesador
 provide	proporciona
 qualified	cualificado
 range	rango
+rather	en lugar de
 really	realmente
 recursive	recursivo
 return	devuelve
