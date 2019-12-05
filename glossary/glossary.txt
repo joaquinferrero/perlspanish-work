@@ -87,6 +87,7 @@ ports	adaptaciones
 processor	procesador
 provide	proporciona
 qualified	cualificado
+question	cuestión
 range	rango
 rather	en lugar de
 really	realmente
