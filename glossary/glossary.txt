@@ -59,6 +59,7 @@ itself	propio
 just	sólo
 just	justo
 keep	mantener
+kind	clase
 length	longitud
 letter	letra
 like	como
@@ -95,6 +96,7 @@ recursive	recursivo
 return	devuelve
 returned	devuelto
 returns	regresa
+scalar	escalar
 sections	secciones
 several	muchos
 single	única
