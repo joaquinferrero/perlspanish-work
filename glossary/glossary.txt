@@ -20,6 +20,7 @@ closure	clausura
 code	código
 compiler	compilador
 conditions	condiciones
+counter	contador
 data	datos
 debugging	depuración
 developer	desarrollador
