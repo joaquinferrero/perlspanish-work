@@ -15,6 +15,7 @@ can	puede
 can	pueden
 case	caso
 characters	caracteres
+checks	comprueba
 child	hijo
 closure	clausura
 code	código
