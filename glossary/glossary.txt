@@ -73,6 +73,7 @@ math	matemáticas
 means	medios
 might	podría
 most	mayor
+multitasking	multitarea
 of course	naturalmente
 often	a menudo
 options	opciones
