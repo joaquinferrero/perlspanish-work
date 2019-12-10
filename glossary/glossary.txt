@@ -88,6 +88,7 @@ parses	interpreta
 pointer	puntero
 portability	portabilidad
 ports	adaptaciones
+preemptive	preventivo
 processor	procesador
 provide	proporciona
 qualified	cualificado
