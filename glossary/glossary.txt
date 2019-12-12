@@ -7,6 +7,7 @@ avoid	evitar
 backslash	barra diagonal inversa
 because	debido
 behavior	comportamiento
+buffer	búfer
 bugs	errores
 built	compilar
 byte	byte
@@ -23,6 +24,7 @@ compiler	compilador
 conditions	condiciones
 counter	contador
 data	datos
+database	base de datos
 debugging	depuración
 developer	desarrollador
 device	dispositivo
