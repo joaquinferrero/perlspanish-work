@@ -9,6 +9,7 @@ because	debido
 behavior	comportamiento
 buffer	búfer
 bugs	errores
+build	compilar
 built	compilar
 byte	byte
 cache	caché
@@ -118,9 +119,10 @@ subroutine	subrutina
 suffix	sufijo
 synchronization	sincronización
 terminal	terminal
+thread	hebra
 time	vez
 time	tiempo
-thread	hebra
+tip	consejo
 unique	única
 unless	a menos
 uppercase	mayúscula
