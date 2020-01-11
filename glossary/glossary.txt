@@ -137,3 +137,4 @@ whereas	mientras
 work	funciona
 workaround	alternativa
 wrong	incorrecto
+environment	entorno
