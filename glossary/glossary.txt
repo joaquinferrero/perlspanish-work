@@ -38,6 +38,7 @@ emulation	emulación
 encounter	encontrarse
 ends	termina
 ensures	asegura
+environment	entorno
 especially	especialmente
 even	incluso
 exists	existe
@@ -105,6 +106,7 @@ returned	devuelto
 returns	regresa
 scalar	escalar
 sections	secciones
+sequence	secuencia
 several	muchos
 single	única
 solution	solución
@@ -137,4 +139,3 @@ whereas	mientras
 work	funciona
 workaround	alternativa
 wrong	incorrecto
-environment	entorno
