@@ -1,5 +1,6 @@
 about	sobre
 above	anterior
+add	añadir
 appends	añade
 argument	argumento
 automatically	automáticamente
@@ -31,6 +32,7 @@ developer	desarrollador
 device	dispositivo
 directory	directorio
 does	hace
+driver	controlador
 due	debido
 easier	más fácil
 efficient	eficiente
@@ -50,6 +52,7 @@ filesystem	sistema de archivos
 filesystems	sistemas de archivos
 floating	flotante
 functions	funciones
+give	proporcionar
 header	cabecera
 however	aun así
 implementation	implementación
@@ -85,6 +88,7 @@ order	orden
 otherwise	lo contrario
 override	sobrepasar	Mejor usar otra cosa
 override	reescribir
+path		ruta
 pathname	nombre de ruta
 parent	padre
 parser	intérprete
