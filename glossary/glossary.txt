@@ -55,6 +55,7 @@ functions	funciones
 give	proporcionar
 header	cabecera
 however	aun así
+images	imágenes
 implementation	implementación
 implicitly	implícitamente
 inconsistency	inconsistencia
