@@ -9,6 +9,7 @@ backslash	barra diagonal inversa
 because	debido
 behavior	comportamiento
 buffer	búfer
+bug	error
 bugs	errores
 build	compilar
 built	compilar
