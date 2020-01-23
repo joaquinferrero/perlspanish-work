@@ -8,6 +8,7 @@ avoid	evitar
 backslash	barra diagonal inversa
 because	debido
 behavior	comportamiento
+behaviour	comportamiento
 buffer	búfer
 bug	error
 bugs	errores
@@ -47,6 +48,7 @@ even	incluso
 exists	existe
 explicit	explícito
 explicitly	explícitamente
+expression	expresión
 filehandle	identificador de archivo
 filename	nombre de archivo
 filesystem	sistema de archivos
