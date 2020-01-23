@@ -133,6 +133,7 @@ time	tiempo
 tip	consejo
 unique	única
 unless	a menos
+updated	actualizó
 uppercase	mayúscula
 usage	uso
 usually	normalmente
