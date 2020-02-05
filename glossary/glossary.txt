@@ -112,6 +112,7 @@ recursive	recursivo
 return	devuelve
 returned	devuelto
 returns	regresa
+routine	rutina
 scalar	escalar
 sections	secciones
 sequence	secuencia
