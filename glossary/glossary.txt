@@ -150,3 +150,5 @@ work	funciona
 workaround	alternativa
 wrong	incorrecto
 directive	directiva
+deprecated	obsoleta
+some	algún
