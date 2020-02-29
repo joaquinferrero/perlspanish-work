@@ -154,3 +154,4 @@ deprecated	obsoleta
 some	algún
 macro	macro
 readability	legibilidad
+found	encontrar
