@@ -153,3 +153,4 @@ directive	directiva
 deprecated	obsoleta
 some	algún
 macro	macro
+readability	legibilidad
