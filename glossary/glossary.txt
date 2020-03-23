@@ -156,3 +156,4 @@ macro	macro
 readability	legibilidad
 found	encontrar
 keyword	palabra clave
+times	veces
