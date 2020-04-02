@@ -158,3 +158,4 @@ found	encontrar
 keyword	palabra clave
 times	veces
 ellipsis	puntos suspensivos
+statement	sentencia
