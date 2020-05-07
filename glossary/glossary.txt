@@ -161,3 +161,4 @@ ellipsis	puntos suspensivos
 statement	sentencia
 handle	manejar
 this	esta
+unary	unario
