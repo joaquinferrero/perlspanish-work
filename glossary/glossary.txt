@@ -162,3 +162,4 @@ statement	sentencia
 handle	manejar
 this	esta
 unary	unario
+destructor	destructor
