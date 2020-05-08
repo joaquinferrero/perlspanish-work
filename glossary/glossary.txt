@@ -166,3 +166,8 @@ destructor	destructor
 instance	instancia
 all	todas
 struct	estructura
+may	puede
+expensive	costosa
+overhead	sobrecarga
+first	primer
+underscore	guión bajo
