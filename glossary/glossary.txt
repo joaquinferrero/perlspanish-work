@@ -163,3 +163,6 @@ handle	manejar
 this	esta
 unary	unario
 destructor	destructor
+instance	instancia
+all	todas
+struct	estructura
