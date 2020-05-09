@@ -171,3 +171,4 @@ expensive	costosa
 overhead	sobrecarga
 first	primer
 underscore	guión bajo
+instantiate	instanciar
