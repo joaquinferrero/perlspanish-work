@@ -173,3 +173,4 @@ first	primer
 underscore	guión bajo
 instantiate	instanciar
 crash	cuelgue
+interfering	interferir
