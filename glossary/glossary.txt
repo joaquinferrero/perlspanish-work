@@ -174,3 +174,4 @@ underscore	guión bajo
 instantiate	instanciar
 crash	cuelgue
 interfering	interferir
+Hopefully	Con suerte
