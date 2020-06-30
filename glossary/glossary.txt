@@ -181,3 +181,5 @@ pipe	tubería
 certain	cierto
 flag	indicador
 unless	menos
+previously	antes
+unidirectional	unidireccional
