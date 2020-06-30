@@ -176,3 +176,4 @@ crash	cuelgue
 interfering	interferir
 Hopefully	Con suerte
 time	momento
+enough	suficiente
