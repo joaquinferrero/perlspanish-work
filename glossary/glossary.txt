@@ -177,3 +177,6 @@ interfering	interferir
 Hopefully	Con suerte
 time	momento
 enough	suficiente
+pipe	tubería
+certain	cierto
+flag	indicador
