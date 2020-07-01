@@ -183,3 +183,4 @@ flag	indicador
 unless	menos
 previously	antes
 unidirectional	unidireccional
+awkward	incómodo
