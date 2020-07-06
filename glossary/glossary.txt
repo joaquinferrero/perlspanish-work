@@ -190,3 +190,9 @@ finished	terminado
 party	parte
 other	otra
 empty	vacía
+variants	variantes
+recommend	recomienda
+lone	solitario
+require	requiere
+that	eso
+manpage	página
