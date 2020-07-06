@@ -185,3 +185,8 @@ previously	antes
 unidirectional	unidireccional
 awkward	incómodo
 connections	conexiones
+client	cliente
+finished	terminado
+party	parte
+other	otra
+empty	vacía
