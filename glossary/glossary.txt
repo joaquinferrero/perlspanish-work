@@ -196,3 +196,5 @@ lone	solitario
 require	requiere
 that	eso
 manpage	página
+many	muchas
+requests	peticiones
