@@ -198,3 +198,4 @@ that	eso
 manpage	página
 many	muchas
 requests	peticiones
+iteration	iteración
