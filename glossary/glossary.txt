@@ -199,3 +199,7 @@ manpage	página
 many	muchas
 requests	peticiones
 iteration	iteración
+chances	probabilidades
+outside	exterior
+compromise	comprometer
+shows	muestra
