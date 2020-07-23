@@ -203,3 +203,4 @@ chances	probabilidades
 outside	exterior
 compromise	comprometer
 shows	muestra
+setup	configuración
