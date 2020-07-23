@@ -207,3 +207,4 @@ setup	configuración
 daemon	demonio
 only	sólo
 through	través
+some	alguna
