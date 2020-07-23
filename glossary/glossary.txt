@@ -204,3 +204,6 @@ outside	exterior
 compromise	comprometer
 shows	muestra
 setup	configuración
+daemon	demonio
+only	sólo
+through	través
