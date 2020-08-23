@@ -211,3 +211,4 @@ some	alguna
 interactive	interactivo
 get	obtener
 fully	completamente
+harder	más difícil
