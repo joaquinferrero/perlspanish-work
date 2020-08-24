@@ -212,3 +212,4 @@ interactive	interactivo
 get	obtener
 fully	completamente
 harder	más difícil
+sample	ejemplo
