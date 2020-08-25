@@ -213,3 +213,5 @@ get	obtener
 fully	completamente
 harder	más difícil
 sample	ejemplo
+another	otra
+over	sobre
