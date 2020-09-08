@@ -215,3 +215,4 @@ harder	más difícil
 sample	ejemplo
 another	otra
 over	sobre
+chance	posibilidad
