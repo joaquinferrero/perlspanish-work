@@ -218,3 +218,5 @@ over	sobre
 chance	posibilidad
 software	software
 Perl	Perl
+Linux	Linux
+favourite	favorito
