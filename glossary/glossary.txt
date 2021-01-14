@@ -220,3 +220,5 @@ software	software
 Perl	Perl
 Linux	Linux
 favourite	favorito
+panel	panel
+symlink	enlace simbólico
