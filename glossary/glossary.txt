@@ -222,3 +222,4 @@ Linux	Linux
 favourite	favorito
 panel	panel
 symlink	enlace simbólico
+definitions	definiciones
