@@ -224,3 +224,4 @@ panel	panel
 symlink	enlace simbólico
 definitions	definiciones
 updates	actualizaciones
+maintenance	mantenimiento
