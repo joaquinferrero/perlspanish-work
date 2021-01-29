@@ -225,4 +225,7 @@ symlink	enlace simbólico
 definitions	definiciones
 updates	actualizaciones
 maintenance	mantenimiento
-release	distribución 	versión, lanzamiento de la versión
+release	distribución
+release	versión
+release	lanzamiento de la versión
+release	publicación
