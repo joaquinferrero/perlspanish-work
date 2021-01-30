@@ -229,3 +229,4 @@ release	distribución
 release	versión
 release	lanzamiento de la versión
 release	publicación
+releases	distribuciones
