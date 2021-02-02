@@ -230,3 +230,5 @@ release	versión
 release	lanzamiento de la versión
 release	publicación
 releases	distribuciones
+compromise	compromiso
+should	debería
