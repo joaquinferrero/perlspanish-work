@@ -232,3 +232,4 @@ release	publicación
 releases	distribuciones
 compromise	compromiso
 should	debería
+repository	repositorio
