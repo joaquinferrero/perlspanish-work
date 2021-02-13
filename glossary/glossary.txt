@@ -232,7 +232,5 @@ release	publicación
 releases	distribuciones
 compromise	compromiso
 should	debería
-commit confirmación
-commits confirmaciones
-committer confirmador
-committers confirmadores
+commit	confirmación
+committer	confirmador
