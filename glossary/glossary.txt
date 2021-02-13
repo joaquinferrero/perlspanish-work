@@ -233,4 +233,4 @@ releases	distribuciones
 compromise	compromiso
 should	debería
 commit	confirmación
-committer	confirmador
+committer	contribuidor
