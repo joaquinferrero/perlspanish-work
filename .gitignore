@@ -1,6 +1,5 @@
 *~
-*.swp
-glossary/.glossary.txt.swp
+.*.swp
 credentials.properties
 omegat/*.bak
 omegat/project_stats.txt
