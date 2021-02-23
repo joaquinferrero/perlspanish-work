@@ -234,3 +234,4 @@ compromise	compromiso
 should	debería
 commit	confirmación
 committer	contribuidor
+pumpking	calabacero
