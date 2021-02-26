@@ -239,3 +239,5 @@ target	objetivo
 suite	paquete
 hand	manualmente
 match	coincidencia
+wildcard	comodín
+wildcards	comodines
