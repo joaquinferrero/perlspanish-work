@@ -242,3 +242,4 @@ match	coincidencia
 wildcard	comodín
 wildcards	comodines
 casting	reconvertir
+portable	portable
