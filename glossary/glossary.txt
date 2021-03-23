@@ -243,3 +243,4 @@ wildcard	comodín
 wildcards	comodines
 casting	reconvertir
 portable	portable
+Unfortunately	Desafortunadamente
