@@ -245,3 +245,4 @@ casting	reconvertir
 portable	portable
 unfortunately	desafortunadamente
 notation	notación
+autovivify	autovivificar
