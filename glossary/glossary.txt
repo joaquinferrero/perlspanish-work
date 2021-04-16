@@ -244,3 +244,4 @@ wildcards	comodines
 casting	reconvertir
 portable	portable
 unfortunately	desafortunadamente
+notation	notación
