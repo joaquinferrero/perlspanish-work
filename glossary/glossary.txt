@@ -249,3 +249,4 @@ autovivify	autovivificar
 support	soporte
 on	activado
 proper	apropiado
+quota	cuota
