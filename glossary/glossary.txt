@@ -257,3 +257,4 @@ glue	pegamento
 automatic	automática
 has	tiene
 These	Estas
+boolean	booleano
