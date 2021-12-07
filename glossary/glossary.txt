@@ -261,3 +261,4 @@ boolean	booleano
 casts	convierte
 unsigned	sin signo
 typemap	mapa de tipos
+array	array
