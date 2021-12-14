@@ -267,3 +267,5 @@ embedded	integrado
 namespace	espacio de nombres
 growth	crecimiento
 outrageous	escandaloso
+size	tamaño
+digit	dígito
