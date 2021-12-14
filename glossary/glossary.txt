@@ -265,3 +265,5 @@ array	array
 handle	manejador
 embedded	integrado
 namespace	espacio de nombres
+growth	crecimiento
+outrageous	escandaloso
