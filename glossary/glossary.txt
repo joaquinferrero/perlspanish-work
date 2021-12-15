@@ -274,3 +274,4 @@ applications	aplicaciones
 running	ejecución
 runtime	tiempo de ejecución
 segfault	fallo de segmentación
+squeaky clean	absolutamente limpio
