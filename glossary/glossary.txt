@@ -269,3 +269,7 @@ growth	crecimiento
 outrageous	escandaloso
 size	tamaño
 digit	dígito
+traditionally	tradicionalmente
+applications	aplicaciones
+running	ejecución
+runtime	tiempo de ejecución
