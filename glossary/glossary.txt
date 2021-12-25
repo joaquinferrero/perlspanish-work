@@ -276,3 +276,4 @@ runtime	tiempo de ejecución
 segfault	fallo de segmentación
 squeaky clean	absolutamente limpio
 later	última
+utilities	utilidades
