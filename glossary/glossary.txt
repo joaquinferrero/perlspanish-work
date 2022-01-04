@@ -277,3 +277,4 @@ segfault	fallo de segmentación
 squeaky clean	absolutamente limpio
 later	última
 utilities	utilidades
+subdirectory	subdirectorio
