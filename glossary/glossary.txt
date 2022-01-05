@@ -278,3 +278,4 @@ squeaky clean	absolutamente limpio
 later	última
 utilities	utilidades
 subdirectory	subdirectorio
+delimiter	delimitador
