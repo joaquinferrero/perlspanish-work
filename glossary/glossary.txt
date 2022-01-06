@@ -281,3 +281,4 @@ subdirectory	subdirectorio
 delimiter	delimitador
 specifications	especificaciones
 lower case	minúscula
+volume	volumen
