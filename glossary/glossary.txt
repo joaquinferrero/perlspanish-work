@@ -279,3 +279,5 @@ later	última
 utilities	utilidades
 subdirectory	subdirectorio
 delimiter	delimitador
+specifications	especificaciones
+lower case	minúscula
