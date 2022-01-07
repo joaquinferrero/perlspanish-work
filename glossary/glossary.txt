@@ -282,3 +282,4 @@ delimiter	delimitador
 specifications	especificaciones
 lower case	minúscula
 volume	volumen
+asynchronous	asíncrona
