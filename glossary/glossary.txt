@@ -283,3 +283,5 @@ specifications	especificaciones
 lower case	minúscula
 volume	volumen
 asynchronous	asíncrona
+backticks	comillas inversas
+subprocess	subproceso
