@@ -285,3 +285,4 @@ volume	volumen
 asynchronous	asíncrona
 backticks	comillas inversas
 subprocess	subproceso
+forked	bifurcado
