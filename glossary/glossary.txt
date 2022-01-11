@@ -288,3 +288,4 @@ subprocess	subproceso
 forked	bifurcado
 case	tamaño de caja
 protection	protección
+encrypted	codificada
