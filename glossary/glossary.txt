@@ -283,7 +283,7 @@ specifications	especificaciones
 lower case	minúscula
 volume	volumen
 asynchronous	asíncrona
-backticks	comillas inversas
+backticks	comillas invertidas
 subprocess	subproceso
 forked	bifurcado
 case	tamaño de caja
