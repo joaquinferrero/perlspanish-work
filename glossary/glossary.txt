@@ -287,3 +287,4 @@ backticks	comillas inversas
 subprocess	subproceso
 forked	bifurcado
 case	tamaño de caja
+protection	protección
