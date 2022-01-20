@@ -290,3 +290,4 @@ case	tamaño de caja
 protection	protección
 encrypted	codificada
 encryption	encriptación
+repository	repositorio
