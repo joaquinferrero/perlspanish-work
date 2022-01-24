@@ -291,3 +291,5 @@ protection	protección
 encrypted	codificada
 encryption	encriptación
 repository	repositorio
+contains	contiene
+best	mejor
