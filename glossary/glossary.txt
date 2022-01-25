@@ -294,3 +294,5 @@ repository	repositorio
 contains	contiene
 best	mejor
 start	inicio
+stupid	estúpida
+limitations	limitaciones
