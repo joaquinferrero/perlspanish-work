@@ -296,3 +296,4 @@ best	mejor
 start	inicio
 stupid	estúpida
 limitations	limitaciones
+redirection	redirección
