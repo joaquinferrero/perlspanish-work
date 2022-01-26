@@ -297,3 +297,4 @@ start	inicio
 stupid	estúpida
 limitations	limitaciones
 redirection	redirección
+installations	instalaciones
