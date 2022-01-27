@@ -298,3 +298,4 @@ stupid	estúpida
 limitations	limitaciones
 redirection	redirección
 installations	instalaciones
+deeper	profundo
