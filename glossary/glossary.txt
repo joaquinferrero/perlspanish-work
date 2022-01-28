@@ -299,3 +299,4 @@ limitations	limitaciones
 redirection	redirección
 installations	instalaciones
 deeper	profundo
+follow	siga
