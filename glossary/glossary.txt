@@ -300,3 +300,5 @@ redirection	redirección
 installations	instalaciones
 deeper	profundo
 follow	siga
+installer	instalador
+need	necesita
