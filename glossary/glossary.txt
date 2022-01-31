@@ -306,3 +306,4 @@ them	ellos
 find	encuentra
 compile	compilar
 people	personas
+form	formato
