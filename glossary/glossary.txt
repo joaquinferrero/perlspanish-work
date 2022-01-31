@@ -304,3 +304,4 @@ installer	instalador
 need	necesita
 them	ellos
 find	encuentra
+compile	compilar
