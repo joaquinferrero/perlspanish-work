@@ -307,3 +307,4 @@ find	encuentra
 compile	compilar
 people	personas
 form	formato
+manpages	páginas de manual
