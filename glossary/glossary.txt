@@ -311,3 +311,4 @@ manpages	páginas de manual
 drive	dispositivo
 build	compilación
 finish	terminar
+implemented	implementada
