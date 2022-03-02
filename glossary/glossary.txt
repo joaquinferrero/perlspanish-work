@@ -313,3 +313,6 @@ build	compilación
 finish	terminar
 implemented	implementada
 stash	almacén
+deferred	pospuesto
+deferred	pospone
+deferred	aplazado
