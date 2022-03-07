@@ -316,3 +316,5 @@ stash	almacén
 deferred	pospuesto
 deferred	pospone
 deferred	aplazado
+caveat	advertencia
+tie	enlaza
