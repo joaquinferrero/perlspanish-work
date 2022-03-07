@@ -318,3 +318,4 @@ deferred	pospone
 deferred	aplazado
 caveat	advertencia
 tie	enlaza
+tied	enlazado
