@@ -319,3 +319,4 @@ deferred	aplazado
 caveat	advertencia
 tie	enlaza
 tied	enlazado
+irrespective	independientemente
