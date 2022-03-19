@@ -322,3 +322,4 @@ tied	enlazado
 irrespective	independientemente
 opcode	código de operación
 previously	anteriormente
+orthogonal	ortogonal
