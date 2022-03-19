@@ -13,4 +13,5 @@ tm/
 .omegat/logs/
 .omegat/omegat.prefs
 .omegat/uiLayout.xml
+.omegat/script/*
 software/

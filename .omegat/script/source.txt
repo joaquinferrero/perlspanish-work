@@ -1,0 +1,5 @@
+The C<perl_alloc> and C<perl_clone> API functions will automatically set
+the TLS slot to the interpreter they created, so that there is no need to do
+anything special if the interpreter is always accessed in the same thread that
+created it, and that thread did not create or call any other interpreters
+afterwards.
